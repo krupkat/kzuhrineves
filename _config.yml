@@ -1,9 +1,10 @@
 title: KZ Uhříněves
-tagline: Nově vznikající komunitní zahrada v Praze 22
+tagline: Komunitní zahrada v Praze 22
 description: |
   Nově vznikající komunitní zahrada<br>v Praze 22
 show_downloads: false
 url: https://www.kzuhrineves.cz
+baseurl: /
 
 theme: jekyll-theme-cayman
 
