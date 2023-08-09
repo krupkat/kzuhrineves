@@ -13,7 +13,7 @@ Přidejte se k nám do Facebookové skupiny:
 
 - [Facebook KZ Uhříněves](https://www.facebook.com/groups/3586237255032092/)
 
-Pokud chcete dostávat novinky o zahradě, nebo pokud by Vás cokoliv zajímalo, můžete nám napsat na email:
+Pokud chcete dostávat novinky o zahradě, nebo kdyby Vás cokoliv zajímalo, můžete nám napsat na email:
 
 - {{ "kzuhrineves" | mailObfuscate }}
 
