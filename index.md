@@ -19,7 +19,7 @@ Pokud chcete dostávat novinky o zahradě, nebo kdyby Vás cokoliv zajímalo, m�
 
 # Plán setkání
 
-Zveme všechny zájemce na sraz 7.9.2023 v pozdně odpoleních hodinách. Přesný čas upřesníme a dáme všem vědět přes facebook / email.
+Zveme všechny zájemce na sraz 7.9.2023 v pozdně odpoledních hodinách. Přesný čas upřesníme a dáme všem vědět přes facebook / email.
 
 - Sraz bude u komunitní zahrady: [mapy.cz](https://en.mapy.cz/s/pucabolano)
 - [Přidat do kalendáře]({{ '/assets/sraz_zari_kzu.ics' | relative_url }})
