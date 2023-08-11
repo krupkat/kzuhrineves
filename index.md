@@ -31,3 +31,7 @@ Zveme všechny zájemce na sraz 7.9.2023 v pozdně odpoledních hodinách. Přes
 Členové koordinačního týmu se na Vás budou těšit na srazech, na Facebooku a při společném zahradničení :)
 
 - Iveta, Lee, Petra, Terka, Tomáš
+
+## O zahradě
+
+- [Přivítací email od Terky]({{ '/mail_04_08' | relative_url }})
