@@ -34,4 +34,4 @@ Zveme všechny zájemce na sraz 7.9.2023 v pozdně odpoledních hodinách. Přes
 
 ## O zahradě
 
-- [Přivítací email od Terky]({{ '/mail_04_08' | relative_url }})
+- [Přivítací email od Terky]({{ '/mail_04_08_2023' | relative_url }})
