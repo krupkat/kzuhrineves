@@ -27,13 +27,13 @@ Zveme všechny zájemce na sraz 7.9.2023 od 18:00. Pokud stihnete přijít až p
 
 ![Zahrada]({{ '/assets/background.jpg' | relative_url }})
 
-# O zahradě
+## O zahradě
 
 - 4.8.2023: [Přivítací email od Terky]({{ '/mail_04_08_2023' | relative_url }})
 - 27.8.2023: [Novinky ze zahrady]({{ '/novinky_27_08_2023' | relative_url }})
 - 1.9.2023: [Pozvánka na sraz 7.9.2023]({{ '/pozvanka_01_09_2023' | relative_url }})
 
-# O nás
+## O nás
 
 Členové koordinačního týmu se na Vás budou těšit na srazech, na Facebooku a při společném zahradničení :)
 
