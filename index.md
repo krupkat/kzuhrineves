@@ -11,9 +11,9 @@ twitter:
 
 Komunitní zahrada může mít více různých podob, v našem případě jde o malou společnou zahradu, kterou je možné využívat pro drobné pěstování, kompostování, relax, či různé srazy a oslavy. Do zahrady mají přístup zapsaní členové a mohou ji využívat po zaplacení ročního příspěvku.
 
-- Pěstování: 1750kč / první rok zahrady
+- Pěstování: 1750 Kč / první rok zahrady
   - Přístup do zahrady, společné nářadí a vybavení zahrady, voda, jeden záhon a skvělá komunita nadšených zahradníků :)
-- Kompostování: 300kč / rok
+- Kompostování: 300 Kč / rok
   - Možnost využívat společný kompost na zahradě.
 
 Za vznik této komunitní zahrady vděčíme [městské části](https://www.praha22.cz/zpravy/zivotni-prostredi/komunitni-zahrada-uhrineves-v-prostoru-za-radnici-anketa-6202cs.html) a spolku [Kokoza](https://kokoza.cz/), děkujeme!
