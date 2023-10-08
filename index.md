@@ -26,6 +26,11 @@ Za vznik této komunitní zahrady vděčíme [městské části](https://www.pra
 
 ![Zahrada]({{ '/assets/zahrada04.jpg' | relative_url }})
 
+## Nadcházející srazy
+
+- 14.10.2023, v 15:00
+- Pojďme si udělat společný piknik na zahradě, víc se poznat a popovídat si třeba o tom, co na zahradu ještě dobudovat. Vezměte deky, děti a něco dobrého na zub a přijďte na chvíli za námi.
+
 ## Zprávy ze zahrady
 
 - 4.8.2023: [Přivítací email od Terky]({{ '/mail_04_08_2023' | relative_url }})
