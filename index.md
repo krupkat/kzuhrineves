@@ -28,8 +28,8 @@ Za vznik této komunitní zahrady vděčíme [městské části](https://www.pra
 
 ## Nadcházející srazy
 
-- 14.10.2023, v 15:00
-- Pojďme si udělat společný piknik na zahradě, víc se poznat a popovídat si třeba o tom, co na zahradu ještě dobudovat. Vezměte deky, děti a něco dobrého na zub a přijďte na chvíli za námi.
+- 21.10.2023, v 10:00
+- Neformální sraz, přijďte se zeptat na to, co vás zajímá, nebo jen tak zrelaxovat (a můžeme u toho i něco udělat na zahradě). K dispozici bude horká voda na kafe / čaj, kdo bude chtít, vemte si vlastní hrníčky.
 
 ## Zprávy ze zahrady
 
