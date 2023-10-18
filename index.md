@@ -9,12 +9,7 @@ twitter:
 
 # Co je to komunitní zahrada?
 
-Komunitní zahrada může mít více různých podob, v našem případě jde o malou společnou zahradu, kterou je možné využívat pro drobné pěstování, kompostování, relax, či různé srazy a oslavy. Do zahrady mají přístup zapsaní členové a mohou ji využívat po zaplacení ročního příspěvku.
-
-- Pěstování: 1750 Kč / první rok zahrady
-  - Přístup do zahrady, společné nářadí a vybavení zahrady, voda, jeden záhon a skvělá komunita nadšených zahradníků :)
-- Kompostování: 300 Kč / rok
-  - Možnost využívat společný kompost na zahradě.
+Komunitní zahrada může mít více různých podob, v našem případě jde o malou společnou zahradu, kterou je možné využívat pro drobné pěstování, kompostování, relax, či různé srazy a oslavy. Do zahrady mají přístup zapsaní členové.
 
 Za vznik této komunitní zahrady vděčíme [městské části](https://www.praha22.cz/zpravy/zivotni-prostredi/komunitni-zahrada-uhrineves-v-prostoru-za-radnici-anketa-6202cs.html) a spolku [Kokoza](https://kokoza.cz/), děkujeme!
 
@@ -30,13 +25,6 @@ Za vznik této komunitní zahrady vděčíme [městské části](https://www.pra
 
 - 21.10.2023, v 10:00
 - Neformální sraz, přijďte se zeptat na to, co vás zajímá, nebo jen tak zrelaxovat (a můžeme u toho i něco udělat na zahradě). K dispozici bude horká voda na kafe / čaj, kdo bude chtít, vemte si vlastní hrníčky.
-
-## Zprávy ze zahrady
-
-- 4.8.2023: [Přivítací email od Terky]({{ '/mail_04_08_2023' | relative_url }})
-- 27.8.2023: [Novinky ze zahrady]({{ '/novinky_27_08_2023' | relative_url }})
-- 1.9.2023: [Pozvánka na sraz 7.9.2023]({{ '/pozvanka_01_09_2023' | relative_url }})
-- 18.9.2023: [Aktuality, počet zájemců]({{ '/aktuality_18_9_2023' | relative_url }})
 
 ## O nás
 
