@@ -23,8 +23,10 @@ Za vznik této komunitní zahrady vděčíme [městské části](https://www.pra
 
 ## Nadcházející srazy
 
-- 21.10.2023, v 10:00
-- Neformální sraz, přijďte se zeptat na to, co vás zajímá, nebo jen tak zrelaxovat (a můžeme u toho i něco udělat na zahradě). K dispozici bude horká voda na kafe / čaj, kdo bude chtít, vemte si vlastní hrníčky.
+- 12.3.2024, v 18:00
+  - Sraz s koordinátory, novinky ze zahrady.
+- 16.3.2024, v 10:00
+  - Neformální sraz, přijďte se zeptat na to, co vás zajímá, nebo jen tak zrelaxovat. K dispozici bude horká voda na kafe / čaj.
 
 ## O nás
 
