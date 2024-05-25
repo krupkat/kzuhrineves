@@ -23,7 +23,7 @@ Za vznik této komunitní zahrady vděčíme [městské části](https://www.pra
 
 ## Nadcházející srazy
 
-- 21.4.2024, v 17:00
+- 26.5.2024, v 17:00
   - Neformální sraz, přijďte se zeptat na to, co vás zajímá, nebo jen tak zrelaxovat.
 
 ## O nás
