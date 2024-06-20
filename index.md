@@ -23,8 +23,8 @@ Za vznik této komunitní zahrady vděčíme [městské části](https://www.pra
 
 ## Nadcházející srazy
 
-- 9.6.2024, v 10:00
-  - Příprava na [restaurant day](https://www.praha22.cz/volny-cas/prehled-akci-1/restaurant-day-uhrineves-2024-6541_2759cs.html)
+- 22.6.2024, v 10:00
+  - Neformální sraz, přijďte se zeptat na to, co vás zajímá, nebo jen tak zrelaxovat.
 
 ## O nás
 
