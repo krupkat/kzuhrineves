@@ -23,8 +23,8 @@ Za vznik této komunitní zahrady vděčíme [městské části](https://www.pra
 
 ## Nadcházející srazy
 
-- 27.7.2024, v 9:00
-  - Sraz + čerpání vody
+- 25.9.2024, v 17:30
+  - Setkání s zahradníkem
 
 ## O nás
 
